@@ -1,0 +1,15 @@
+#c:\users\miros\appdata\local\programs\python\python39\lib\site-packages\ipykernel_launcher.py -f C:\Users\miros\AppData\Roaming\jupyter\runtime\kernel-37bb2b6d-9eb5-48a3-a32e-0dfffe949432.json
+# GMT Mon May 10 07:58:37 2021
+# 
+0 1 2 3 4
+1 2 3 4
+2 3 4
+3 4
+4
+5 6 7 8
+6 7 8
+7 8
+8
+9
+10
+11
